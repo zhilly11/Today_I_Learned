@@ -194,6 +194,6 @@ $ git pull
 
 변경후 예쁘장하게 커스텀 해 주었다.
 
-![Untitled](220818_Optional%20b564f847fc74403389eb41a068930ca1/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/99257965/185648619-ce455d04-7528-4b00-b82d-531855706d92.png)
 
 코딩할 맛이 산다… 참고하실분들은 [여기](https://ooeunz.tistory.com/21) 참고!!
